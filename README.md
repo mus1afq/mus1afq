@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on network engineering agent<br>👯 I’m looking to collaborate on detection engineering, ML for detection & anything Azure Security<br>🌱 I'm currently learning Terraform, containers, CI/CD pipelines with security gates<br>⚡ Fun fact I train Brazilian jiu-jitsu
+🔭 I’m currently working on a network engineering agent<br>👯 I’m looking to collaborate on detection engineering, ML for detection & anything Azure Security<br>🌱 I'm currently learning Terraform, containers, CI/CD pipelines with security gates<br>⚡ Fun fact I train Brazilian jiu-jitsu
 
 
 ## 🌐 Socials:
